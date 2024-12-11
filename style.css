@@ -1,0 +1,83 @@
+body {
+    background-color:#F7ECDE !important;
+}
+.pacifico-regular h1 {
+    font-family: "Pacifico", cursive !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
+    font-size: 50px !important;
+  }
+  .righteous-regular  .lead{
+    font-family: "Righteous", sans-serif !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
+    font-size: 25px !important;
+  }
+  
+  a{
+    color: rgb(255, 255, 255) !important;
+    text-decoration: none !important;
+    display: inline-block;
+  }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+   
+    margin: 20px;
+    border-bottom: #000000;
+    border: 1px;
+
+}
+.lead {
+    text-align: center;
+    color: #4a2c2a;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    
+color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,50,1) 43%, rgba(0,212,255,1) 100%);
+
+}
+.lead i {
+    color: green;
+}
+.form {
+    margin-bottom: 15px;
+}
+.form-control {
+    border-radius: 0;
+}
+.btn {
+    background-color: #d9534f;
+    color: white;
+    border-radius: 0;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+th, td {
+    text-align: center;
+    padding: 10px;
+}
+th {
+    background-color: #f5e6d3;
+    color: #4a2c2a;
+}
+.table-bordered {
+    border: 1px solid #ddd;
+}
+.table-bordered th, .table-bordered td {
+    border: 1px solid #ddd;
+}
+.output .book {
+    border-top: 1px dotted #000000;
+    margin: 20px 0;
+}
+.button{
+    text-align: center;
+}
