@@ -52,7 +52,7 @@ color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,50,1) 43%, rgba(0,21
 }
 .btn {
     background-color: #d9534f;
-    color: white;
+    color: white !important;
     border-radius: 0;
 }
 
